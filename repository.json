@@ -1,5 +1,7 @@
 {
-  "name": "Meu Repo",
+  "name": "Kairou & MinhaTela",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/LuisGodoi21/meu-repositorio-cloudstream/builds/plugins.json"
+  ]
 }
